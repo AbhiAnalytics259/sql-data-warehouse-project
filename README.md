@@ -39,7 +39,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 ---
-
+![image alt](image_url)https://github.com/AbhiAnalytics259/sql-data-warehouse-project/blob/4f285ad1bb344c1987d4046709d58a64bb5564ec/docs/Data%20Architecture.drawio%20(1).png
 ## 🛡️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
